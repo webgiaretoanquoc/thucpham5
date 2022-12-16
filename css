@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Pattaya';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/pattaya/v12/ea8ZadcqV_zkHY-XBdet8w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+}
